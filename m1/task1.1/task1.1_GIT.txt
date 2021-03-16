@@ -1,0 +1,41 @@
+task1.1 % git reflog
+bc35a5a (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{0}: merge develop: Fast-forward
+be14a65 HEAD@{1}: checkout: moving from develop to main
+bc35a5a (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{2}: commit (merge): merging styles to develop branch
+8866646 (origin/images, images) HEAD@{3}: merge images: Fast-forward
+e5d35f5 HEAD@{4}: checkout: moving from styles to develop
+0119ad1 (origin/styles, styles) HEAD@{5}: commit: adding styles to index.html
+37fd85f HEAD@{6}: commit: adding styles folder and styles branch
+e5d35f5 HEAD@{7}: checkout: moving from develop to styles
+e5d35f5 HEAD@{8}: checkout: moving from images to develop
+8866646 (origin/images, images) HEAD@{9}: commit: changing index.html and added images on branch images
+cb2c08a HEAD@{10}: checkout: moving from develop to images
+e5d35f5 HEAD@{11}: checkout: moving from images to develop
+cb2c08a HEAD@{12}: commit: adding images on branch images
+e5d35f5 HEAD@{13}: checkout: moving from develop to images
+e5d35f5 HEAD@{14}: commit: adding html on develop branch
+be14a65 HEAD@{15}: checkout: moving from main to develop
+be14a65 HEAD@{16}: commit: init comit
+158eb29 HEAD@{17}: commit: test
+75107c6 HEAD@{18}: commit: test
+3e2f2f6 HEAD@{19}: clone: from https://github.com/lidia3/DevOps_online_Zhytomyr_:...skipping...
+bc35a5a (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{0}: merge develop: Fast-forward
+be14a65 HEAD@{1}: checkout: moving from develop to main
+bc35a5a (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{2}: commit (merge): merging styles to develop branch
+8866646 (origin/images, images) HEAD@{3}: merge images: Fast-forward
+e5d35f5 HEAD@{4}: checkout: moving from styles to develop
+0119ad1 (origin/styles, styles) HEAD@{5}: commit: adding styles to index.html
+37fd85f HEAD@{6}: commit: adding styles folder and styles branch
+e5d35f5 HEAD@{7}: checkout: moving from develop to styles
+e5d35f5 HEAD@{8}: checkout: moving from images to develop
+8866646 (origin/images, images) HEAD@{9}: commit: changing index.html and added images on branch images
+cb2c08a HEAD@{10}: checkout: moving from develop to images
+e5d35f5 HEAD@{11}: checkout: moving from images to develop
+cb2c08a HEAD@{12}: commit: adding images on branch images
+e5d35f5 HEAD@{13}: checkout: moving from develop to images
+e5d35f5 HEAD@{14}: commit: adding html on develop branch
+be14a65 HEAD@{15}: checkout: moving from main to develop
+be14a65 HEAD@{16}: commit: init comit
+158eb29 HEAD@{17}: commit: test
+75107c6 HEAD@{18}: commit: test
+3e2f2f6 HEAD@{19}: clone: from https://github.com/lidia3/DevOps_online_Zhytomyr_2021Q1.git
