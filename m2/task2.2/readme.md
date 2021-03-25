@@ -1,6 +1,9 @@
 ## Module 2 Virtualization and Cloud Basic
 ## TASK 2.2
 
+## My link for S3:
+http://lidiareshnivetska.pp.ua.s3-website.eu-central-1.amazonaws.com
+
 Task 1-2:
 
 ![Image description](./img/common/reg.png)
