@@ -31,6 +31,7 @@ Task 7.Execute other different SQL queries DDL, DML, DCL.
 ## DDl:
 
 select:
+
 ![Image description](./img/vm/1.png)
 
 alter:
@@ -41,6 +42,7 @@ drop:
 ![Image description](./img/vm/3.png)
 
 comment and rename:
+
 ![Image description](./img/vm/4.png)
 
 ## DML:
