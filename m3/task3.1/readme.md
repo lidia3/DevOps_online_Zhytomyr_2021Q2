@@ -12,10 +12,12 @@ Draft of my Database:
 ![Image description](./img/vm/scheme.png)
 
 Task 4: Created db
+
 ![Image description](./img/vm/my_data.png)
 
 Task 5-6:
 Select, where, group by, order by:
+
 ![Image description](./img/vm/selection.png)
 
 ![Image description](./img/vm/where.png)
@@ -32,6 +34,7 @@ select:
 ![Image description](./img/vm/1.png)
 
 alter:
+
 ![Image description](./img/vm/2.png)
 
 drop:    
@@ -41,7 +44,9 @@ comment and rename:
 ![Image description](./img/vm/4.png)
 
 ## DML:
+
 insert:
+
 ![Image description](./img/vm/5.png)
 
 update:   
@@ -51,6 +56,7 @@ delete:
 ![Image description](./img/vm/7.png)
 
 Result of merging between two tables:
+
 ![Image description](./img/vm/merge.png)
 
 call:    
@@ -60,11 +66,13 @@ explain:
 ![Image description](./img/vm/9.png)
 
 update:
+
 ![Image description](./img/vm/10.png)
 
 ## DСL:
 
 grant:
+
 ![Image description](./img/vm/11.png)
 
 revoke:  
@@ -110,6 +118,7 @@ Task 17-19: DynamoDb
 ![Image description](./img/part3/1.png)
 
 table:
+
 ![Image description](./img/part3/2.png)
 
 ![Image description](./img/part3/3.png)
