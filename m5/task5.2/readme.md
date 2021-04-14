@@ -7,6 +7,7 @@ Local user information is stored in the /etc/passwd file.
 ![Image description](./img/1.png)
 
 It stores group information or defines the user groups i.e. it defines the groups to which users belong
+
 ![Image description](./img/2.png)
 
 The sudo command allows you to run programs with the security privileges of another user (by default, as the superuser). It prompts you for your personal password and confirms your request to execute a command by checking a file, called sudoers, which the system administrator configures. Using the sudoers file, system administrators can give certain users or groups access to some or all commands without those users having to know the root password. It also logs all commands and arguments so there is a record of who used it for what, and when.
